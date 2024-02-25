@@ -1,2 +1,1 @@
-# cprog
- c programming
+# GitDemo
